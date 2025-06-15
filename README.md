@@ -21,6 +21,20 @@ I used [Noodl](https://github.com/The-Low-Code-Foundation/OpenNoodl) to put toge
 
 ---
 
+## [Sitekick: They Came for the Ooze](https://github.com/SitekickRemastered/TheyCamefortheOoze)
+
+YTV released a game for Windows 2000 / XP in 2004.  This game was lost to time, however I managed to restore it to working form 21 years later.  It was a real pain in the ass, but it's really nice to know that forgotten media can be played again.  It's easily been 15 years since someone last played it.
+
+Steps I had to take:
+
+- Find the original installer
+- Wireshark the server it was trying to pull from
+- Find the real executable on archive.org
+- Remove ActiveMark DRM (Only works on NON-VM Windows 2000/XP devices)
+- Package with standalone Projector, Shockwave player 10
+
+---
+
 There's a handful of other projects that I work on, but these are the most notable at the moment.  Shout out to:
 
 - [GalaXseeds Remastered](https://galaxseedsremastered.com/)
