@@ -6,7 +6,7 @@ In my free time I like to make applications that are financially irresponsible t
 
 ## [Sitekick Remastered](https://sitekickremastered.com/)  
 
-I started working on Sitekick Remastered on July 24, 2019.  I am responsible for leading the direction of the project, basic code, hosting, deployments, documentation, and general administration.  We've had 9 people contribute code and art to the project, and have around 2300 players at the time of writing.
+I started working on Sitekick Remastered on July 24, 2019.  I am responsible for leading the direction of the project, basic code, hosting, deployments, documentation, and general administration.  We've had 9 people contribute code and art to the project, and have around 2500 players at the time of writing.
 
 More details are available on the [homepage](https://sitekickremastered.com/).  Most of our repositories are public.  You can find them on our [GitHub Organization](https://github.com/SitekickRemastered/).
 
