@@ -15,7 +15,7 @@ More details are available on the [homepage](https://sitekickremastered.com/).  
 
 ## [Animal Crossing GCN Tracker](https://github.com/SK-Crow/Animal-Crossing-Gamecube-Checklist/)
 
-RetroAchievements added support for Gamecubue games, so I was starting a save in Animal Crossing (2002).  I was looking around for a companion app, but was surprised to find that nobody had done one.  I decided to try my hand at solo-developing an app, and am happy with the end result.
+RetroAchievements added support for Gamecube games, so I was starting a save in Animal Crossing (2002).  I was looking around for a companion app, but was surprised to find that nobody had done one.  I decided to try my hand at solo-developing an app, and am happy with the end result.
 
 I used [Noodl](https://github.com/The-Low-Code-Foundation/OpenNoodl) to put together a pretty decent looking website that helps people track their progress in Animal Crossing (2002) for Gamecube.  It's available on [Google Play](https://play.google.com/store/apps/details?id=digital.sterner.checklist) for Android users, and as a [standalone website](https://acgc.sterner.digital/) hosted on Github Pages.
 
