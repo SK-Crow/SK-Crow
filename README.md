@@ -39,9 +39,6 @@ There's a handful of other projects that I work on, but these are the most notab
 
 - [GalaXseeds Remastered](https://galaxseedsremastered.com/)
 - [PKSM for Switch](https://github.com/SK-Crow/PKSM/tree/pksm-switch)
-- [shitify](https://github.com/SK-Crow/shitify)
-- [Animal Crossing DS Checklist](https://github.com/SK-Crow/Animal-Crossing-DS-Checklist)
-- [iocage-ix-plugins](https://github.com/SK-Crow/iocage-ix-plugins-1)
 
 # Contact
 If you wish to get in touch, please contact me on [Discord](https://discord.sterner.digital/) or reach out to me on [LinkedIn](https://www.linkedin.com/in/nicholas-sterner-134217a8/) if you're representing a business.
